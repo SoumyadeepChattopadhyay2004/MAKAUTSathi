@@ -2,6 +2,7 @@
 
 Your all-in-one AI-powered study app built for Maulana Abul Kalam Azad University of Technology (MAKAUT) students. Powered by **Claude AI (Anthropic)**.
 
+Live Demo: http://makautsathi-madebysoumyadeep.streamlit.app
 ---
 
 ## ✨ Features
